@@ -6,7 +6,7 @@ Réalisé dans le cadre du Hackathon Industrie 4.0, ce projet vise à cartograph
 
 ## 🛠️ Méthodologie & Outils
 - **Cartographie des flux :** Modélisation de la chaîne d'approvisionnement (production, distribution, ventes).
-- **Business Intelligence :** Conception de tableaux de bord interactifs sous **Power BI Desktop** (DAX, Power Query).
+- **Business Intelligence :** Conception des visualisations sous **Python** et **Power BI**.
 - **Analyse des KPIs :** Suivi des délais, niveaux de stock, performance de production et volume des ventes.
 
 ## 📂 Structure du dépôt
